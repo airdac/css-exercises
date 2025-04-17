@@ -1,0 +1,13 @@
+.left, .right {
+  font-size: 28px;
+  font: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.left {
+  background-color: hsl(0, 0%, 10%);
+  color: white;
+}
+
+.right {
+  background-color: yellow;
+}
