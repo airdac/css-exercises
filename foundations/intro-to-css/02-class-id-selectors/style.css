@@ -1,0 +1,20 @@
+/* classes selectors */
+.odd {
+  background-color: rgb(251, 166, 161);
+  font: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.adjust-font-size {
+  font-size: 24px;
+}
+
+/* id selectors */
+#two {
+  color: #0101e9;
+  font-size: 36px;
+}
+
+#four {
+  background-color: hsl(120, 92%, 76%);
+  font-weight: bold;
+}
